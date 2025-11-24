@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolicyNotesService", "PolicyNotesService\PolicyNotesService.csproj", "{CE4CFC89-AA9D-45A5-BC42-5CDBF7AFDE31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolicyNotesService.Tests", "PolicyNotesService.Tests\PolicyNotesService.Tests.csproj", "{BC0B7328-6008-4EFD-BA43-7A3BC0D94C13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE4CFC89-AA9D-45A5-BC42-5CDBF7AFDE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4CFC89-AA9D-45A5-BC42-5CDBF7AFDE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4CFC89-AA9D-45A5-BC42-5CDBF7AFDE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4CFC89-AA9D-45A5-BC42-5CDBF7AFDE31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0B7328-6008-4EFD-BA43-7A3BC0D94C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0B7328-6008-4EFD-BA43-7A3BC0D94C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0B7328-6008-4EFD-BA43-7A3BC0D94C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0B7328-6008-4EFD-BA43-7A3BC0D94C13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {888DB34D-81C5-43BB-AA57-0BAD2D166267}
+	EndGlobalSection
+EndGlobal
